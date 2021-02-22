@@ -22,7 +22,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/CyFwRL1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://i.imgur.com/CyFwRL1.gif 
+(Twitter API call limit reached in the middle of the video so couldn't repopulate timeline to show new tweet.)
+
 
 # Project 3 - TweeterByBLC
 
